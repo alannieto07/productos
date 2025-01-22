@@ -1,5 +1,5 @@
 # productos
-- es una api para almacenar productos, donde se pueden crear,modificar, actualizar y eliminar.
+- Api REST para almacenar productos, donde se pueden crear,modificar, actualizar y eliminar.
 - tecnologias = html,css(Bootstrap),php,mysql.
 
 
